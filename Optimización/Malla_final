@@ -1,0 +1,16 @@
+*Heading
+ C:\Users\Mateo\Documents\Argos\Studio-u\Proyecto\Optimización\Malla_final
+*NODE
+******* E L E M E N T S *************
+*ELSET,ELSET=PhysicalLine1
+
+*ELSET,ELSET=PhysicalLine2
+
+*ELSET,ELSET=PhysicalLine3
+
+*ELSET,ELSET=PhysicalLine4
+
+*ELSET,ELSET=PhysicalLine5
+
+*ELSET,ELSET=PhysicalSurface1
+
